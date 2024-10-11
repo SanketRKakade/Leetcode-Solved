@@ -7,6 +7,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -34,4 +35,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
