@@ -22,6 +22,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0058-length-of-last-word) |
