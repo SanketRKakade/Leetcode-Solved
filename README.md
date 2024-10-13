@@ -14,6 +14,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0001-two-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
