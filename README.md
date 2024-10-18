@@ -18,6 +18,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -98,6 +99,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
@@ -156,4 +158,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
