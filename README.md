@@ -51,6 +51,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0020-valid-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
