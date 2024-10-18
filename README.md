@@ -87,4 +87,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
