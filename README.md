@@ -20,6 +20,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0217-contains-duplicate) |
@@ -29,6 +30,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0001-two-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -71,6 +73,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +104,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,4 +117,5 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
