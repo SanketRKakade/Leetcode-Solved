@@ -7,6 +7,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 ## Array
@@ -30,6 +31,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
@@ -40,6 +42,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0058-length-of-last-word) |
