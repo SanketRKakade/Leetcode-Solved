@@ -63,6 +63,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
@@ -109,6 +110,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
