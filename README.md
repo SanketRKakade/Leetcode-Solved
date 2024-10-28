@@ -50,6 +50,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
@@ -74,6 +75,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -106,6 +108,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
