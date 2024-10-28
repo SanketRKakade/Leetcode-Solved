@@ -42,6 +42,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0142-linked-list-cycle-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -53,6 +54,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0020-valid-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
@@ -87,6 +89,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0015-3sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
