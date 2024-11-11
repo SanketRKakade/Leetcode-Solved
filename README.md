@@ -216,4 +216,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
