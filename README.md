@@ -224,6 +224,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Number Theory
 |  |
 | ------- |
