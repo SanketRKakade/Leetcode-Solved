@@ -13,6 +13,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0070-climbing-stairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
+| [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
+| [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0033-search-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +123,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0011-container-with-most-water) |
+| [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 ## Memoization
 |  |
 | ------- |
@@ -220,4 +224,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0175-combine-two-tables) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
