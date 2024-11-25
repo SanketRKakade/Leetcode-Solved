@@ -162,6 +162,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0113-path-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0113-path-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -248,4 +250,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
