@@ -184,6 +184,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0133-clone-graph](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -191,6 +192,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -258,6 +260,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0207-course-schedule) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -294,4 +297,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
