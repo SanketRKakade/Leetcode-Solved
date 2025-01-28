@@ -38,6 +38,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0133-clone-graph](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -189,6 +192,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,4 +290,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
