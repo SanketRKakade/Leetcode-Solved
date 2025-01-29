@@ -127,6 +127,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0023-merge-k-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -250,6 +251,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
 | [2509-minimize-xor](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2509-minimize-xor) |
