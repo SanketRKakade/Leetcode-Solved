@@ -196,6 +196,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
