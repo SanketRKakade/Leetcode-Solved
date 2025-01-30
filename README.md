@@ -30,6 +30,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0090-subsets-ii) |
@@ -115,6 +116,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
@@ -163,6 +165,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0048-rotate-image](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
