@@ -92,6 +92,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
@@ -107,6 +108,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0143-reorder-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,6 +266,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
