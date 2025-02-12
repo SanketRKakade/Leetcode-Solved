@@ -48,6 +48,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -75,6 +76,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1364-tuple-with-same-product](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -138,6 +140,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0217-contains-duplicate](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -315,6 +318,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
