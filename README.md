@@ -53,6 +53,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -271,6 +272,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -319,6 +321,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0023-merge-k-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
