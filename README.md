@@ -48,6 +48,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [1364-tuple-with-same-product](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -261,6 +262,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0113-path-sum-ii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
