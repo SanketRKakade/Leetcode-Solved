@@ -102,6 +102,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
@@ -118,6 +119,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0011-container-with-most-water) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 ## Memoization
@@ -266,6 +269,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0113-path-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0113-path-sum-ii) |
 | [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
