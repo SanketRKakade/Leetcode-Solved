@@ -78,6 +78,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
@@ -98,6 +99,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -262,6 +264,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0113-path-sum-ii) |
+| [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
@@ -353,6 +356,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
