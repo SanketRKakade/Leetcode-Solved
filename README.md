@@ -224,6 +224,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
@@ -236,6 +237,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
@@ -251,6 +253,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0133-clone-graph) |
@@ -263,6 +266,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
