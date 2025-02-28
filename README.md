@@ -55,6 +55,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0485-max-consecutive-ones](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -225,6 +226,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Linked List
@@ -284,6 +286,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0207-course-schedule](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
