@@ -65,6 +65,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -154,6 +155,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0143-reorder-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -329,6 +331,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Recursion
 |  |
