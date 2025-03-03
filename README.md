@@ -6,6 +6,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0048-rotate-image) |
