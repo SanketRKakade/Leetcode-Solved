@@ -69,6 +69,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2551-apply-operations-to-an-array) |
+| [2690-house-robber-iv](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -170,6 +171,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2690-house-robber-iv](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
