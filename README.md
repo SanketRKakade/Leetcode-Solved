@@ -65,6 +65,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2262-solving-questions-with-brainpower](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -223,6 +224,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0338-counting-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
