@@ -74,6 +74,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2690-house-robber-iv](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
