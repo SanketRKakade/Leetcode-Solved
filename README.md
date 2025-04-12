@@ -18,6 +18,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0371-sum-of-two-integers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
@@ -367,6 +368,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0143-reorder-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
