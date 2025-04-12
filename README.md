@@ -129,6 +129,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -224,6 +225,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -336,6 +338,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
