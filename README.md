@@ -159,6 +159,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0143-reorder-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -356,6 +357,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
@@ -497,4 +499,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
