@@ -63,6 +63,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0496-next-greater-element-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -197,6 +198,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0074-search-a-2d-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
