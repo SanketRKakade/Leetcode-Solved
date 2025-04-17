@@ -81,6 +81,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2551-apply-operations-to-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2690-house-robber-iv](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -122,6 +123,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -415,6 +417,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Database
 |  |
 | ------- |
