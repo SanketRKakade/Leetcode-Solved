@@ -152,6 +152,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0768-partition-labels](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
+| [1508-longest-happy-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -466,6 +467,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -473,11 +475,13 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
