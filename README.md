@@ -144,6 +144,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -464,16 +465,19 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0686-repeated-string-match) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
