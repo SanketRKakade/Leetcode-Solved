@@ -58,6 +58,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0238-product-of-array-except-self](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
@@ -201,6 +202,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0151-reverse-words-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -215,6 +217,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0074-search-a-2d-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2690-house-robber-iv) |
@@ -423,6 +426,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0191-number-of-1-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
