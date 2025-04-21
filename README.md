@@ -11,6 +11,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0013-roman-to-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0189-rotate-array) |
@@ -261,6 +262,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
@@ -538,6 +540,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
