@@ -78,6 +78,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -239,6 +240,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0238-product-of-array-except-self](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [2249-count-the-hidden-sequences](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2249-count-the-hidden-sequences) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
