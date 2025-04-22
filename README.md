@@ -24,6 +24,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2050-count-good-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3840-find-x-value-of-array-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3840-find-x-value-of-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3429-special-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
+| [3840-find-x-value-of-array-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3840-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -555,4 +557,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
+## Segment Tree
+|  |
+| ------- |
+| [3840-find-x-value-of-array-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3840-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
