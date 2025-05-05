@@ -273,6 +273,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0131-palindrome-partitioning](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0338-counting-bits) |
+| [0806-domino-and-tromino-tiling](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2262-solving-questions-with-brainpower) |
