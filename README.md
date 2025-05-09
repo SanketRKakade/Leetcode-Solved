@@ -47,6 +47,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0084-largest-rectangle-in-histogram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0136-single-number) |
@@ -269,6 +270,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
