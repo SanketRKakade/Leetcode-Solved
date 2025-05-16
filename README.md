@@ -36,6 +36,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0035-search-insert-position](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0057-insert-interval) |
@@ -391,6 +392,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0090-subsets-ii) |
