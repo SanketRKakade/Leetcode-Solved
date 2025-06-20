@@ -28,6 +28,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3321-type-of-triangle) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3840-find-x-value-of-array-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3840-find-x-value-of-array-ii) |
 ## Array
 |  |
@@ -148,6 +149,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2626-count-the-number-of-good-subarrays](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
 | ------- |
@@ -546,6 +549,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Brainteaser
 |  |
 | ------- |
