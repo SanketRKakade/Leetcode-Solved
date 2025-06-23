@@ -181,6 +181,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -450,6 +451,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2551-apply-operations-to-an-array) |
