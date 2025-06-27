@@ -1,34 +1,28 @@
 class Solution {
 public:
-    vector<vector<int>> fun(int i, int &sum, vector<int>& temp, vector<int>& nums, vector<vector<int>>& ans, int k) {
-        if (i >= nums.size()) {
-            if (sum == k) {
+
+    void fun(int i,vector<int>& temp, vector<int>& nums,vector<vector<int>>&ans, int k){
+        if(i == nums.size()){
+            if(k==0){
                 ans.push_back(temp);
             }
-            return ans;  
+            return ;
         }
 
-        // include current element if sum does not exceed target
-        if (sum + nums[i] <= k) {
-            temp.push_back(nums[i]);
-            sum += nums[i];
 
-            fun(i, sum, temp, nums, ans, k);  // include same element again (i)
-
-            sum -= nums[i];  // backtrack
-            temp.pop_back();
+        if(nums[i] <=k ){
+            temp.push_back(nums[i]); 
+            fun(i,temp,nums,ans,k-nums[i]);
+            temp.pop_back();  
         }
 
-        // exclude current element
-        fun(i + 1, sum, temp, nums, ans, k);
-
-        return ans;
+        fun(i+1,temp,nums,ans,k);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> temp;
-        int sum = 0;
-        return fun(0, sum, temp, candidates, ans, target);
+        fun(0,temp,candidates,ans,target);
+        return ans;
     }
 };
