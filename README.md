@@ -182,6 +182,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -316,6 +317,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0797-rabbits-in-forest](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -438,6 +440,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
@@ -577,6 +580,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1364-tuple-with-same-product](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -620,6 +624,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Queue
 |  |
 | ------- |
