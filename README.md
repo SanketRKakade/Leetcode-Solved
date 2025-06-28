@@ -39,6 +39,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0048-rotate-image) |
@@ -121,6 +122,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0001-two-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -338,6 +340,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
@@ -433,6 +436,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0051-n-queens) |
