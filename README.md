@@ -11,6 +11,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0013-roman-to-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0069-sqrtx) |
@@ -483,6 +484,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0231-power-of-two) |
