@@ -199,6 +199,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
@@ -293,6 +294,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0560-subarray-sum-equals-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2249-count-the-hidden-sequences) |
+| [3618-find-the-original-typed-string-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
@@ -323,6 +325,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
