@@ -11,14 +11,24 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        if(root == NULL){
-            return 0;  
-        }
+    // Level Order Approach to find depth or height
 
-        int height_l = maxDepth(root->left);
-        int height_r = maxDepth(root->right);
-        int ans = max(height_l , height_r);
-        return ans+1;
+    int maxDepth(TreeNode* root) {
+        if(root==NULL) return 0;
+        int depth =0;
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while(!q.empty()){
+            int size = q.size();
+            depth++;
+            for(int i=0 ; i<size ; i++){
+                TreeNode* temp = q.front();
+                q.pop();
+                if(temp->left) q.push(temp->left);
+                if(temp -> right) q.push(temp->right);
+            }
+        }
+        return depth;
     }
 };
