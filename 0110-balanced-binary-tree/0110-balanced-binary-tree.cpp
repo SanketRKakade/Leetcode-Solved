@@ -16,23 +16,16 @@ public:
         if(root == NULL) return true;
 
         int lh = dfsHeight(root->left);
+        if(lh == -1) return -1;
         int rh = dfsHeight(root->right);
+        if(rh == -1) return -1;
+
+        if(abs(rh-lh) > 1) return -1;
 
         return max(lh,rh) + 1;
     }
 
     bool isBalanced(TreeNode* root) {
-        if(root == NULL) return true;
-
-        int lh = dfsHeight(root->left);
-        int rh = dfsHeight(root->right);
-
-        if(abs(lh-rh) > 1) return false;
-
-        bool leftCheck = isBalanced(root->left);
-        bool rightCheck = isBalanced(root->right);
-
-        if(!leftCheck || !rightCheck) return false;
-        return true;
+        return dfsHeight(root) != -1;
     }
 };
