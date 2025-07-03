@@ -29,6 +29,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3840-find-x-value-of-array-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3840-find-x-value-of-array-ii) |
 ## Array
@@ -503,6 +504,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2271-rearrange-array-elements-by-sign](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -514,6 +516,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0231-power-of-two](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -531,6 +534,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
