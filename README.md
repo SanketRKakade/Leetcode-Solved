@@ -150,6 +150,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0797-rabbits-in-forest](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -282,6 +283,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -406,6 +408,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0543-diameter-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -426,6 +429,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0210-course-schedule-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -441,6 +445,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0207-course-schedule](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -463,6 +468,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0543-diameter-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
