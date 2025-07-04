@@ -59,6 +59,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0084-largest-rectangle-in-histogram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
@@ -130,6 +131,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
@@ -307,6 +309,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0023-merge-k-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
@@ -401,6 +404,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
@@ -476,6 +480,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
