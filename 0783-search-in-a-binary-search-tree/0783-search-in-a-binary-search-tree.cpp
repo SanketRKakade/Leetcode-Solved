@@ -9,18 +9,12 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
- class Solution {
+class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
-        if (root == nullptr || root->val == val) {
-            return root;
+        while(root!=NULL && root->val != val){
+            root = val < (root->val) ? root->left : root->right;
         }
-        
-        if (val < root->val) {
-            return searchBST(root->left, val);
-        }
-        
-        return searchBST(root->right, val);
+        return root;
     }
 };
