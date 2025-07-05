@@ -12,16 +12,24 @@
 class Solution {
 public:
     void flatten(TreeNode* root) {
-        if(root==NULL) return;
-        stack<TreeNode*> st;
-        st.push(root);
-        while(!st.empty()){
-            TreeNode* curr = st.top();
-            st.pop();
-            if(curr->right) st.push(curr->right);
-            if(curr->left) st.push(curr->left);
-            if(!st.empty()) curr->right = st.top();
-            curr->left = NULL;
+        TreeNode* curr = root;
+
+        while (curr) {
+            if (curr->left) {
+                TreeNode* prev = curr->left;
+                // Go to the rightmost node of the left subtree
+                while (prev->right) {
+                    prev = prev->right;
+                }
+                // Attach curr's right subtree to the rightmost node of left subtree
+                prev->right = curr->right;
+                // Move left subtree to the right
+                curr->right = curr->left;
+                curr->left = nullptr;
+            }
+            // Move to the next node (always to the right in the flattened tree)
+            curr = curr->right;
         }
+
     }
 };
