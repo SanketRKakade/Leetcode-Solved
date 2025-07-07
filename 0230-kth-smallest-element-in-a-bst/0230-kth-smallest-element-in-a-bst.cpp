@@ -12,15 +12,24 @@
 class Solution {
 public:
     
-    void solve(TreeNode* root, int k, vector<int>&inorder){
-        if(root->left) solve(root->left,k,inorder);
-        inorder.push_back(root->val);
-        if(root->right) solve(root->right,k,inorder);
+    int solve(TreeNode* root, int k, int& count){
+
+        if (!root) return -1;
+
+        // Search in the left subtree
+        int left = solve(root->left, k, count);
+        if (left != -1) return left;
+
+        // Visit current node
+        count++;
+        if (count == k) return root->val;
+
+        // Search in the right subtree
+        return solve(root->right, k, count);
     }
 
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>v;
-        solve(root,k,v);
-        return v[k-1];
+        int count=0;
+        return solve(root,k,count);
     }
 };
