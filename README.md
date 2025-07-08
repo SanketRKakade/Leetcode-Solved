@@ -95,6 +95,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -279,6 +280,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0792-binary-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2690-house-robber-iv](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
@@ -298,6 +300,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0594-longest-harmonious-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -340,6 +343,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0806-domino-and-tromino-tiling](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3618-find-the-original-typed-string-ii) |
