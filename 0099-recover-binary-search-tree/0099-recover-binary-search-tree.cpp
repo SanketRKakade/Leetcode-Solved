@@ -1,43 +1,41 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
-
 private:
-    TreeNode* prev;
-    TreeNode* first;
-    TreeNode* middle;
-    TreeNode* last;
+    vector<int> inorderVals;
+    int index;
 
-    void inorder(TreeNode* root){
-        if(root == NULL) return ;
-        inorder(root->left);
-        if(prev && root->val < prev->val){
-            if(first == NULL){
-                first = prev;
-                middle = root;
-            }
-            else last = root;
+    // Step 1: Store the inorder traversal
+    void storeInorder(TreeNode* root) {
+        if (!root) return;
+        storeInorder(root->left);
+        inorderVals.push_back(root->val);
+        storeInorder(root->right);
+    }
+
+    // Step 3: Modify the tree with sorted values
+    void recoverTreeUtil(TreeNode* root) {
+        if (!root) return;
+        recoverTreeUtil(root->left);
+        if (root->val != inorderVals[index]) {
+            root->val = inorderVals[index];
         }
-        prev = root;
-        inorder(root->right);
+        index++;
+        recoverTreeUtil(root->right);
     }
 
 public:
     void recoverTree(TreeNode* root) {
-        if(root == NULL) return;
-        first = middle = last = NULL;
-        prev = new TreeNode (INT_MIN);
-        inorder(root);
-        if(first && last) swap(first->val, last->val);
-        else if(first && middle) swap(first->val, middle->val);
+        if (!root) return;
+
+        // Step 1: Store inorder traversal
+        inorderVals.clear();
+        storeInorder(root);
+
+        // Step 2: Sort the values
+        sort(inorderVals.begin(), inorderVals.end());
+
+        // Step 3: Replace values using sorted inorder
+        index = 0;
+        recoverTreeUtil(root);
     }
 };
+
