@@ -87,6 +87,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0797-rabbits-in-forest](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1036-rotting-oranges](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -383,6 +384,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [1036-rotting-oranges](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -502,6 +504,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0662-maximum-width-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
