@@ -124,6 +124,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3429-special-array-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3429-special-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3840-find-x-value-of-array-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3840-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
@@ -368,6 +369,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -766,6 +768,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Queue
 |  |
 | ------- |
