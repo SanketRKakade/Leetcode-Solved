@@ -1,28 +1,36 @@
 class Solution {
 public:
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        vector<int> indegree(numCourses, 0);
-
-        for (auto& pre: prerequisites) {
-            adj[pre[1]].push_back(pre[0]);
-            indegree[pre[0]]++;
+    vector<int> findOrder(int N, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(N);
+        for(auto it:prerequisites){
+            adj[it[1]].push_back(it[0]);
         }
+        
+        vector<int> indegree(N,0);
+        for(int i=0 ; i<N ; i++){
+            for(auto it : adj[i]){
+                indegree[it]++;
+            }
+        }
+        
         queue<int>q;
-        for (int i = 0; i < numCourses; i++) {
-            if (indegree[i] == 0) q.push(i);
+        for(int i=0 ; i<N ; i++){
+            if(indegree[i]==0) q.push(i);
         }
+        
         vector<int>topo;
-        while (!q.empty()) {
+        while(!q.empty()){
             int node = q.front();
             q.pop();
             topo.push_back(node);
             
-            for (int neighbor:adj[node]) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0) q.push(neighbor);
+            for(auto neighbour : adj[node]){
+                indegree[neighbour]--;
+                if(indegree[neighbour]==0) q.push(neighbour);
             }
         }
-        return (topo.size() == numCourses) ? topo : vector<int>();
+        
+        if(topo.size()==N) return topo;
+        return {};
     }
 };
