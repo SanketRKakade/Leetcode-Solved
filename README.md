@@ -123,6 +123,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3429-special-array-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -351,6 +352,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
