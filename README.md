@@ -186,6 +186,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0020-valid-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
@@ -337,6 +338,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0070-climbing-stairs) |
@@ -358,6 +360,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0797-rabbits-in-forest) |
@@ -606,6 +609,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0143-reorder-list) |
