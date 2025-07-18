@@ -491,6 +491,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0801-is-graph-bipartite](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1300-critical-connections-in-a-network) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -675,6 +676,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0207-course-schedule](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0801-is-graph-bipartite) |
+| [1300-critical-connections-in-a-network](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1300-critical-connections-in-a-network) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -792,4 +794,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0173-binary-search-tree-iterator) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
