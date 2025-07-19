@@ -91,6 +91,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -201,6 +202,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0768-partition-labels](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1508-longest-happy-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -221,6 +223,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
@@ -495,6 +498,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1300-critical-connections-in-a-network) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
