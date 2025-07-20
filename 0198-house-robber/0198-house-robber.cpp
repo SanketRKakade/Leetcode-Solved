@@ -5,18 +5,19 @@ private:
 public:
     int rob(vector<int>& a){
         int n=a.size();
-        vector<int>dp(n,-1);
-
-        dp[0] = a[0];
+        int prev2 = 0;
+        int prev = a[0];
 
         for(int i=1 ; i<n ; i++){
             int take = a[i];
-            if(i>1) take += dp[i-2];
-            int not_take = dp[i-1];
+            if(i>1) take += prev2;
+            int not_take = prev;
 
-            dp[i] = max(take, not_take);
+            int curr = max(take, not_take);
+            prev2 = prev;
+            prev = curr;
         }
-        return dp[n-1];
+        return prev;
         
     }
 };
