@@ -1,32 +1,32 @@
 class Solution {
 private:
-    int f(int ind, vector<int>& nums, vector<int>& dp){
-        if(ind == 0) return nums[ind];
-        if(ind < 1) return 0;
+    int robLinearTab(vector<int>& nums) {
+        int n = nums.size();
+        if (n == 0) return 0;
+        if (n == 1) return nums[0];
 
-        if(dp[ind] != -1) return dp[ind];
+        vector<int> dp(n);
+        dp[0] = nums[0];
+        dp[1] = max(nums[0], nums[1]);
 
-        int pick = nums[ind] + f(ind-2, nums, dp);
-        int not_pick = 0 + f(ind-1, nums, dp);
-
-        return dp[ind] = max(pick, not_pick);
-    }
-public:
-    int rob(vector<int>& nums){
-        int n=nums.size();
-        if(n==1) return nums[0];
-    
-        vector<int>temp1, temp2;
-        for(int i=0 ; i<n ; i++){
-            if(i!=0) temp1.push_back(nums[i]);
-            if(i!=n-1) temp2.push_back(nums[i]);
+        for (int i = 2; i < n; i++) {
+            dp[i] = max(nums[i] + dp[i-2], dp[i-1]);
         }
 
-        vector<int>dp1(n+1,-1);
-        vector<int>dp2(n+1,-1);
+        return dp[n-1];
+    }
 
-        int ans1 = f(temp1.size()-1 , temp1, dp1);
-        int ans2 = f(temp2.size()-1, temp2, dp2);
+public:
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+        if (n == 1) return nums[0];
+
+        vector<int> temp1(nums.begin() + 1, nums.end());     // Exclude first house
+        vector<int> temp2(nums.begin(), nums.end() - 1);     // Exclude last house
+
+        int ans1 = robLinearTab(temp1);
+        int ans2 = robLinearTab(temp2);
+
         return max(ans1, ans2);
     }
 };
