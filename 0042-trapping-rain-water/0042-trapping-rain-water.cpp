@@ -1,21 +1,26 @@
-class Solution {
+class Solution
+{
 public:
-    int trap(vector<int>& height) {
-        int n=height.size();
-        int lMax=0,rMax=0;
-        int l=0,r=n-1;
-        int total=0;
-        while(l<r){
-            if(height[l]<height[r]){
-                if(lMax<height[l]) lMax=height[l];
-                else total=total+lMax-height[l];
-                l++;
-            }else{
-                if(rMax<height[r]) rMax=height[r];
-                else total=total+rMax-height[r];
-                r--;
+    int trap(vector<int> &height)
+    {
+        int n = height.size(); 
+        int water = 0;         
+        vector<int> stack;     
+        for (int right = 0; right < n; right++)
+        {
+            while (!stack.empty() && height[stack.back()] < height[right])
+            {
+                int mid = stack.back(); 
+                stack.pop_back();       
+                if (stack.empty())
+                    break;
+                int left = stack.back();                                                      
+                int minHeight = min(height[right] - height[mid], height[left] - height[mid]);
+                int width = right - left - 1;                                                 
+                water += minHeight * width;                                                   
             }
+            stack.push_back(right); 
         }
-        return total;
+        return water;
     }
 };
