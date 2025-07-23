@@ -149,6 +149,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
@@ -201,6 +202,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
@@ -540,6 +542,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0200-number-of-islands) |
