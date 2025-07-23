@@ -266,6 +266,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0141-linked-list-cycle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
@@ -307,6 +308,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0015-3sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0229-majority-element-ii) |
@@ -340,6 +342,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
@@ -425,6 +428,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0142-linked-list-cycle-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0328-odd-even-linked-list) |
@@ -708,6 +712,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
