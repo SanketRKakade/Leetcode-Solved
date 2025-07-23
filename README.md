@@ -44,6 +44,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0037-sudoku-solver](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0051-n-queens) |
@@ -234,6 +235,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -261,6 +263,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
@@ -352,6 +355,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0062-unique-paths) |
@@ -435,6 +439,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
