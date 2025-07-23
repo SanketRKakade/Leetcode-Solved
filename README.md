@@ -90,6 +90,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0792-binary-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -293,6 +294,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
