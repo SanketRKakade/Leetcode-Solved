@@ -90,6 +90,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0503-next-greater-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -164,6 +165,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0496-next-greater-element-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0797-rabbits-in-forest) |
@@ -325,6 +327,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -388,6 +391,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0011-container-with-most-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -719,6 +723,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0215-kth-largest-element-in-an-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -768,6 +773,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0229-majority-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
