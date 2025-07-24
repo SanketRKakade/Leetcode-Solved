@@ -293,6 +293,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0234-palindrome-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0768-partition-labels) |
@@ -338,6 +339,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0229-majority-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0594-longest-harmonious-subsequence) |
@@ -647,6 +649,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0173-binary-search-tree-iterator](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -751,6 +754,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0023-merge-k-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -836,6 +840,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 ## Bucket Sort
 |  |
