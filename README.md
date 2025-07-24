@@ -170,6 +170,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0594-longest-harmonious-subsequence) |
@@ -468,6 +469,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0206-reverse-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0460-lfu-cache) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -651,6 +653,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0232-implement-queue-using-stacks](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0460-lfu-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0460-lfu-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
@@ -658,6 +661,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0460-lfu-cache) |
 ## Simulation
 |  |
 | ------- |
