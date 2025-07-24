@@ -265,6 +265,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0234-palindrome-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -477,6 +478,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0084-largest-rectangle-in-histogram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -654,6 +656,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0295-find-median-from-data-stream](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0460-lfu-cache) |
+| [0937-online-stock-span](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
@@ -845,6 +848,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 ## Bucket Sort
 |  |
