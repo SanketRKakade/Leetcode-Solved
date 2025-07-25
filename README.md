@@ -144,6 +144,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3840-find-x-value-of-array-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3840-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -435,6 +437,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Memoization
 |  |
 | ------- |
