@@ -156,6 +156,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0001-two-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
@@ -214,6 +215,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0014-longest-common-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0049-group-anagrams) |
@@ -751,6 +753,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
