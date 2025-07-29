@@ -171,6 +171,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0229-majority-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -223,6 +224,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0214-shortest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0686-repeated-string-match](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0686-repeated-string-match) |
@@ -839,6 +841,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0169-majority-element](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0621-task-scheduler) |
