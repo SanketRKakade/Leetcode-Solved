@@ -21,6 +21,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0231-power-of-two](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -89,6 +90,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0287-find-the-duplicate-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0336-palindrome-pairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
@@ -178,6 +180,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0299-bulls-and-cows](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0460-lfu-cache) |
@@ -698,6 +701,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0232-implement-queue-using-stacks](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
@@ -947,4 +951,8 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
