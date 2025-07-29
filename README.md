@@ -87,6 +87,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0336-palindrome-pairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
@@ -175,6 +176,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -229,6 +231,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0242-valid-anagram](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0686-repeated-string-match](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0686-repeated-string-match) |
@@ -258,6 +261,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0336-palindrome-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
