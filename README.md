@@ -495,6 +495,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -736,6 +737,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0060-permutation-sequence) |
