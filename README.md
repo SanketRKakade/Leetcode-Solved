@@ -74,6 +74,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0119-pascals-triangle-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -455,6 +456,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0621-task-scheduler) |
