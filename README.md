@@ -161,6 +161,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3791-fruits-into-baskets-iii) |
 | [3840-find-x-value-of-array-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3840-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
@@ -365,6 +366,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -932,6 +934,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3791-fruits-into-baskets-iii) |
 ## Data Stream
 |  |
 | ------- |
@@ -968,6 +971,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3791-fruits-into-baskets-iii) |
 | [3840-find-x-value-of-array-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3840-find-x-value-of-array-ii) |
 ## Iterator
 |  |
