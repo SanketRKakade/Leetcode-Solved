@@ -20,6 +20,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0189-rotate-array](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -766,6 +767,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0206-reverse-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
