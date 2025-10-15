@@ -161,6 +161,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3429-special-array-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -371,6 +372,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2690-house-robber-iv](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/3791-fruits-into-baskets-iii) |
