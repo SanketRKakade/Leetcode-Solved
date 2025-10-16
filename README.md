@@ -60,6 +60,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0053-maximum-subarray](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
@@ -508,6 +509,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 | [0037-sudoku-solver](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
@@ -758,6 +760,7 @@ Collection of my LeetCode problem solutions implemented in C++. This repository 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/0059-spiral-matrix-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SanketRKakade/Leetcode-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
